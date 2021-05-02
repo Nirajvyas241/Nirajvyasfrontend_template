@@ -1,0 +1,1 @@
+this is a text directort in static file
